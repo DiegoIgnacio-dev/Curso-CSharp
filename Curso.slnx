@@ -1,5 +1,6 @@
 <Solution>
-  <Project Path="Arreglos/Arreglos.csproj" />
+  <Project Path="Arreglos/Switch.csproj" />
   <Project Path="Funciones/Funciones.csproj" Id="e43c7984-30e3-45c8-837d-0143b7eb32e0" />
+  <Project Path="SentenciaIfElse/SentenciaIfElse.csproj" Id="faf79fad-ee18-4dfe-ac71-6a36d0910bf2" />
   <Project Path="variables/variables.csproj" />
 </Solution>
