@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Arreglos/Arreglos.csproj" />
+  <Project Path="variables/variables.csproj" />
+</Solution>
